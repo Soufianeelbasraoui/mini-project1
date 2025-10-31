@@ -1,2 +1,2 @@
-# mini-project1
+# mini-project
 Smart Taxi Dispatcher
